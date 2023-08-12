@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+I'm Kristy, and I'm a FullStack Academy bootcamp grad in the Virginia Beach area. 
+
+-🌱I am currently learning about AWS.
+
+-💬I would love to connect with more people to grow in my coding skills on [LinkedIn](https://www.linkedin.com/in/kristy-vandermolen/)!
 <!--
 **Kristyvdm2020/Kristyvdm2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

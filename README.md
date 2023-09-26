@@ -3,7 +3,7 @@
 
 I'm Kristy, and I'm a FullStack Academy bootcamp grad in the Virginia Beach area. 
 
-- 🌱 I am currently learning about AWS and growing in my knowledge of JavaScript.
+- 🌱 I am currently learning about algorithms.
 
 - ⚡ Fun fact: I used to work on nuclear submarines!
 
